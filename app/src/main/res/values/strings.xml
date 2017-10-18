@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NewOne</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">:)</string>
+
+    <string name="tab_home">首页</string>
+    <string name="tab_video">视频</string>
+    <string name="tab_micro">微头条</string>
+    <string name="tab_me">我的</string>
+
+    <string name="top">新闻</string>
+    <string name="nba">体育</string>
+    <string name="cars">汽车</string>
+    <string name="jokes">笑话</string>
+    <string name="transition_news_img">new_img</string>
+</resources>
